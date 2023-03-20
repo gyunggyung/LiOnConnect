@@ -1,15 +1,15 @@
 # LiOn
-Lion 모델은 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장할 수 있는 모델입니다.
+Lion 은 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장할 수 있는 모델입니다.
 
 ## LiOnConnect
-Lion 모델이 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장할 수 있는 모델입니다. Lion 모델의 강력한 자연어 처리 능력과 함께, 다양한 데이터와의 연결을 통해 자연어 처리 분야에서 높은 성능과 효율성을 제공합니다.
+Lion 모델의 강력한 자연어 처리 능력과 함께, 다양한 DB와의 연결을 통해 자연어 처리 분야에서 높은 성능과 효율성을 제공합니다.
 
 ### How
 - [alpaca-lora.ipynb](https://colab.research.google.com/drive/1eWAmesrW99p7e1nah5bipn0zikMb8XYC#scrollTo=upOB2AQJSW9-): This notebook contains minimal code for running [Alpaca-LoRA](https://github.com/tloen/alpaca-lora/) for demonstration purposes. Please check the repo for more details.
-- [Query Database Using Natural Language — OpenAI GPT-3 and LangChain](https://blog.devgenius.io/query-database-using-natural-language-openai-gpt-3-d2403636527a): OpenAI GPT-3 및 LangChain을 사용하여 **자연어로 데이터베이스 질의**.
-- [OpenAI API Key](https://openai.com/blog/openai-api): 모델의 API Key. API Key: sk-uhR2QIaO2UvHxSP
+- [Make ChatGPT-replica](https://colab.research.google.com/drive/1UcLLV4mLtn8vxGk5U3TxiLNbVBealy16?usp=sharing):  ChatGPT를 만든 원리인 GPT fine-tuning, 강화학습(PPO), RLHF, ChatGPT 데이터셋 구축에 대해 다루고 코드 실습을 합니다.
 - [LangChain](https://langchain.readthedocs.io/en/latest/index.html): 이 라이브러리로 **자연어로 데이터베이스 질의**.
 - [r-build/sf-restaurants-sql](https://github.com/r-build/sf-restaurants-sql): 샌프란시스코 식품 건강 조사 **데이터**.
+- [Query Database Using Natural Language — OpenAI GPT-3 and LangChain](https://blog.devgenius.io/query-database-using-natural-language-openai-gpt-3-d2403636527a): OpenAI GPT-3 및 LangChain을 사용하여 **자연어로 데이터베이스 질의**.
 
 ### Related issues
 1. [비상업적 연구 목적으로만 본 소프트웨어의 파생 저작물을 제작할 수 있습니다.](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
