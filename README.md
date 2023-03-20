@@ -14,6 +14,9 @@ Lion 모델의 강력한 자연어 처리 능력과 함께, 다양한 DB와의 �
 ### Related issues
 1. [비상업적 연구 목적으로만 본 소프트웨어의 파생 저작물을 제작할 수 있습니다.](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
 
+# Talk to Alpaca-LoRA
+This notebook contains minimal code for running [Alpaca-LoRA](https://github.com/tloen/alpaca-lora/) for demonstration purposes. Please check the repo for more details.
+
 # MVP
 기업 데이터베이스(DB) 접속. **내부 정보를 실시간 접근**하여, 필요작업 수행.
 - 예: 기업 전화상담실
