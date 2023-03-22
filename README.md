@@ -1,8 +1,29 @@
+<h1 align="center"> <img src="image/logo.png" width="400" height="400"> </h1>
+
+
+<p align="center">
+  <a href="https://www.apache.org/licenses/LICENSE-2.0">
+    <img alt="licenses" src="https://img.shields.io/github/license/gyunggyung/LiOn?style=flat-square"></a>
+  <a href="https://colab.research.google.com/drive/1RUlTeJo4qhnQZPXUUFIgvlj0R9ARR805?usp=sharing">
+    <img alt="licenses" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+  <a href="https://github.com/gyunggyung/LiOn/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/gyunggyung/LiOn?style=flat-square&color=yellow"></a>
+  <a href="https://github.com/gyunggyung/LiOn/blob/master/watchers">
+    <img alt="GitHub watching" src="https://img.shields.io/github/watchers/gyunggyung/LiOn?style=flat-square&color=ff69b4"></a>
+  <a href="https://github.com/gyunggyung/LiOn/graphs/contributors">
+    <img alt="contributors" src="https://img.shields.io/badge/contributors-welcome-yellowgreen?style=flat-square"></a>
+</p>
+
+<div align="center">
+    <sub> Let's make good AI publicly available. 🙇‍♂️🙇‍♀️ by <a href="https://github.com/gyunggyung/LiOn/stargazers">Stargazers</a>  </sub>
+</div>
+
+
 # LiOn
-Lion 은 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장할 수 있는 모델입니다.
+LiOn 은 다양한 데이터와 연결되어 자연어 처리 분야에서의 전문성을 확장할 수 있는 모델입니다.
 
 ## LiOnConnect
-Lion 모델의 강력한 자연어 처리 능력과 함께, 다양한 DB와의 연결을 통해 자연어 처리 분야에서 높은 성능과 효율성을 제공합니다.
+LiOn 모델의 강력한 자연어 처리 능력과 함께, 다양한 DB와의 연결을 통해 자연어 처리 분야에서 높은 성능과 효율성을 제공합니다.
 
 ### How
 - [alpaca-lora.ipynb](https://colab.research.google.com/drive/1eWAmesrW99p7e1nah5bipn0zikMb8XYC#scrollTo=upOB2AQJSW9-): This notebook contains minimal code for **running [Alpaca-LoRA](https://github.com/tloen/alpaca-lora/)** for demonstration purposes.
