@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
     <img alt="licenses" src="https://img.shields.io/github/license/gyunggyung/LiOn?style=flat-square"></a>
-  <a href="https://colab.research.google.com/drive/1RUlTeJo4qhnQZPXUUFIgvlj0R9ARR805?usp=sharing">
+  <a href="https://colab.research.google.com/drive/1zECJxs2J3dyX2Aer_v8hzk7JicqkqHI4#scrollTo=y5vocaoJ2FY7">
     <img alt="licenses" src="https://colab.research.google.com/assets/colab-badge.svg"></a>
   <a href="https://github.com/gyunggyung/LiOn/stargazers">
     <img alt="GitHub stars" src="https://img.shields.io/github/stars/gyunggyung/LiOn?style=flat-square&color=yellow"></a>
