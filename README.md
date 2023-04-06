@@ -26,7 +26,8 @@ LiOn 은 다양한 데이터와 연결되어 자연어 처리 분야에서의 �
 LiOn 모델의 강력한 자연어 처리 능력과 함께, 다양한 DB와의 연결을 통해 자연어 처리 분야에서 높은 성능과 효율성을 제공합니다.
 
 ### How
-- [LangChain](https://langchain.readthedocs.io/en/latest/index.html): 이 라이브러리로 **자연어로 데이터베이스 질의**.
+- [Cerebras-GPT](https://huggingface.co/cerebras/Cerebras-GPT-2.7B) Cerebras-GPT로 **쿼리 및 자연어 생성** 
+- [LangChain](https://langchain.readthedocs.io/en/latest/index.html): 이 라이브러리로 **자연어 데이터베이스 질의**.
 
 ### Related issues
 1. [비상업적 연구 목적으로만 본 소프트웨어의 파생 저작물을 제작할 수 있습니다.](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
