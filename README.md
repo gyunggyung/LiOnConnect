@@ -30,10 +30,9 @@ LiOn 모델의 강력한 자연어 처리 능력과 함께, 다양한 DB와의 �
 - [LangChain](https://langchain.readthedocs.io/en/latest/index.html): 이 라이브러리로 **자연어 데이터베이스 질의**.
 
 ### Related issues
-1. [비상업적 연구 목적으로만 본 소프트웨어의 파생 저작물을 제작할 수 있습니다.](https://docs.google.com/forms/d/e/1FAIpQLSfqNECQnMkycAp2jP4Z9TFX0cGR4uf7b_fBxjY_OjhJILlKGA/viewform)
-
-# Talk to Alpaca-LoRA
-This notebook contains minimal code for running [Alpaca-LoRA](https://github.com/tloen/alpaca-lora/) for demonstration purposes. Please check the repo for more details.
+1. 연결할 수 있는 공개 DB 필요.
+2. RoLA + GPTQ + Cerebras-GPT + HuggingGPT + Auto-GPT + Reflecting on Reflexion 검증 필요.
+3. Fine-tuning 가능한 3090 이상의 GPU 필요.
 
 # MVP
 기업 데이터베이스(DB) 접속. **내부 정보를 실시간 접근**하여, 필요작업 수행.
@@ -54,8 +53,4 @@ text3 = "Which 3 products are the most expensive ones we offer?"
 result = db_chain(text1)
 result = db_chain(text2)
 result = db_chain(text3)
-
-# for _ in range(15):
-#     text = input()
-#     result = db_chain(text)
 ```
