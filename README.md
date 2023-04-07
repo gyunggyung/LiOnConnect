@@ -31,7 +31,7 @@ LiOn 모델의 강력한 자연어 처리 능력과 함께, 다양한 DB와의 �
 
 ### Related issues
 1. 연결할 수 있는 공개 DB 필요.
-2. RoLA + GPTQ + Cerebras-GPT + HuggingGPT + Auto-GPT + Reflecting on Reflexion 검증 필요.
+2. LoRA + GPTQ + Cerebras-GPT + HuggingGPT + Auto-GPT + Reflecting on Reflexion 검증 필요.
 3. Fine-tuning 가능한 3090 이상의 GPU 필요.
 
 # MVP
