@@ -56,12 +56,15 @@ result = db_chain(text3)
 ```
 
 ## 상담봇 예시
-심리 상담 또한 인공지능과 병행을 하면, 24시간 근무도 가능합니다.
-- https://m.blog.naver.com/nowbe3/223013117501
-실제로 아토머스 같은 의료 기업도 인공지능 개발에 노력을 가합니다.
-- https://www.wanted.co.kr/wd/134576
-의학에서 인공지능을 쓰는 것에 거부감을 느끼시는 분들은 아래 사례를 봐주시길 바랍니다. 강아지를 살리는데 ChatGPT가 큰 도움이 됐습니다.
-- https://dogmas.tistory.com/entry/ChatGPT%EA%B0%80-%EA%B0%95%EC%95%84%EC%A7%80-%EC%83%9D%EB%AA%85%EC%9D%84-%EC%82%B4%EB%A0%B8%EB%8B%A4
+심리 상담 또한 인공지능과 병행을 하면, 24시간 근무도 가능합니다: 
+ https://m.blog.naver.com/nowbe3/223013117501
+ 
+
+실제로 아토머스 같은 의료 기업도 인공지능 개발에 노력을 가합니다: 
+ https://www.wanted.co.kr/wd/134576
+ 
+ 아래 사례를 봐주시길 바랍니다. 강아지를 살리는데 ChatGPT가 큰 도움이 됐습니다:
+ https://dogmas.tistory.com/entry/ChatGPT%EA%B0%80-%EA%B0%95%EC%95%84%EC%A7%80-%EC%83%9D%EB%AA%85%EC%9D%84-%EC%82%B4%EB%A0%B8%EB%8B%A4
 
 ```
 정신과 상담 챗봇에 오신 것을 환영합니다!
