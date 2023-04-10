@@ -22,6 +22,25 @@
 # LiOnConnect
 LiOn 모델은 초대규모 언어모델을 사내에 설치함으로서 사내 정보가 외부로 유출될 우려를 불식시키면서 자연어모델의 강력한 성능과 효율성을 활용할 수 있도록 해줄 것입니다.
 
+## Help
+
+We're looking for someone to join us in implementing a top-performing LiOn model.
+
+### Job Offer
+1. 🔥GPU/TPU/NPU support for the project🔥.
+2. Someone to fine-tune and change LiOn together
+3. Someone to help with servingsomeone to create time series images such as webtoons, someone to create videos such as movies.
+4. Someone who can monetize services like OpenAI, Stability AI, and Huggingface.
+
+Reach out to me at the email below with a little bit about yourself.
+
+newhiwoong@gmail.com
+
+## Team members
+1. 염기웅: 대표, 비즈니스, R&D
+2. 이대환: 교수, 비즈니스, 연구
+3. 비공식: 의사, 비즈니스
+
 ## How
 - [Cerebras-GPT](https://huggingface.co/cerebras/Cerebras-GPT-2.7B) Cerebras-GPT로 **쿼리 및 자연어 생성** 
 - [LangChain](https://langchain.readthedocs.io/en/latest/index.html): 이 라이브러리로 **자연어 데이터베이스 질의**.
