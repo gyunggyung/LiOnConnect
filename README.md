@@ -29,8 +29,9 @@ We're looking for someone to join us in implementing a top-performing LiOn model
 ### Job Offer
 1. 🔥GPU/TPU/NPU support for the project🔥.
 2. Someone to fine-tune and change LiOn together
-3. Someone to help with servingsomeone to create time series images such as webtoons, someone to create videos such as movies.
-4. Someone who can monetize services like OpenAI, Stability AI, and Huggingface.
+3. Someone to help with serving
+4. Someone to create time series images such as webtoons, someone to create videos such as movies.
+5. Someone who can monetize services like OpenAI, Stability AI, and Huggingface.
 
 Reach out to me at the email below with a little bit about yourself.
 
