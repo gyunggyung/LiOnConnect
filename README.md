@@ -39,8 +39,9 @@ newhiwoong@gmail.com
 
 ## Team members
 1. 염기웅: 대표, 비즈니스, R&D
-2. 이대환: 교수, 비즈니스, 연구
-3. 비공식: 의사, 비즈니스
+2. 이대환: 교수, 비즈니스, Research
+3. 이승호: 삼성, 엔지니어, NPU
+4. 비공식: 의사, 비즈니스
 
 ## How
 - [Cerebras-GPT](https://huggingface.co/cerebras/Cerebras-GPT-2.7B) Cerebras-GPT로 **쿼리 및 자연어 생성** 
